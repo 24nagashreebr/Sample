@@ -7,5 +7,4 @@ public class demo_1 {
 	public void sample_1(){
 		System.out.println("hello");
 	}
-
 }
